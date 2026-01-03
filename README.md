@@ -19,6 +19,9 @@ On my free-time, I like playing fighting games (e.g., Super Smash Bros. Ultimate
 
 ### Certifications:  
 - **Google Advanced Data Analytics Professional Certificate**
+- **Microsoft DP-600: Fabric Analytics Engineer Associate**
+- **Microsoft DP-900: Azure Data Fundamentals**
+- **Microsoft AI-900: Azure AI Fundamentals**
 
 ## Contact Me
 
